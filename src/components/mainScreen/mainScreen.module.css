@@ -1,0 +1,41 @@
+.mainScreen {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 1280px;
+    min-height: 640px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 5e-05) 49.88%, rgba(0, 0, 0, 0.5) 100%);
+    position: relative;
+}
+
+.mainScreenHeader {
+    padding: 36px 0px 24px 0px;
+    color: #FFFFFF;
+    font-family: 'Exo 2';
+    font-size: 36px;
+    line-height: 44px;
+    text-shadow: 0px 1px 1px #000000;
+    font-weight:100;
+
+}
+
+
+.mainScreenCover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    
+}
+.mainScreenCover img {
+    position: absolute;
+		width: 100%;
+		height: 100%;
+		top: 0;
+		left: 0;
+		object-fit: cover;
+}
+
+

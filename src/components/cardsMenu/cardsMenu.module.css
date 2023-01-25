@@ -1,0 +1,21 @@
+.cardsMenu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 0px 67px 0px;
+}
+
+@media (max-width: 1150px) {
+    .cardsMenu {
+        flex: 0 1 50%;
+        flex-wrap: wrap;
+    }
+}
+
+
+@media (max-width: 735px) {
+    .cardsMenu {
+        display: block;
+        margin: 0 auto;
+    }
+}
