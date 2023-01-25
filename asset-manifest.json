@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nyamushka/static/css/main.c1290133.css",
+    "main.js": "/Nyamushka/static/js/main.c0ec4334.js",
+    "static/media/Photo.png": "/Nyamushka/static/media/Photo.39b8f5236c36121de1d1.png",
+    "static/media/Pattern.png": "/Nyamushka/static/media/Pattern.8b93e2127ee44e2a8146.png",
+    "index.html": "/Nyamushka/index.html",
+    "main.c1290133.css.map": "/Nyamushka/static/css/main.c1290133.css.map",
+    "main.c0ec4334.js.map": "/Nyamushka/static/js/main.c0ec4334.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1290133.css",
+    "static/js/main.c0ec4334.js"
+  ]
+}
